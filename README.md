@@ -1,11 +1,12 @@
 
-# Hey... I'm Allan 👋  
+# Hey... I'm Allan 👋 
 
 A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷  
 
 💡 I’m currently learning and building **simple, elegant, and user-friendly digital experiences** using Swift, SwiftUI, and modern web technologies.  
 <h3 align="left">
   <b>You can reach me through:</b>&nbsp;
+  
   <a href="mailto:allall88@icloud.com" target="_blank" rel="nofollow">
     <img alt="Email" title="Email"
     src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat"
@@ -61,7 +62,7 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-all-all&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
