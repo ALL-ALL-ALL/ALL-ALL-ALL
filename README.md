@@ -65,13 +65,23 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 
 <h2 align="center">👾 My GitHub Pac-Man</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contributions" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
-  </picture>
+  <div align="center" style="
+    border: 2px solid #FFD700;
+    border-radius: 12px;
+    padding: 15px;
+    background-color: rgba(255, 215, 0, 0.08);
+    display: inline-block;
+  ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
+      <img alt="Pac-Man contributions" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
+    </picture>
+  </div>
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
