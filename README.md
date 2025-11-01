@@ -34,6 +34,8 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 
 ---
+  ![Allan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=all-all-all&theme=tokyo-night)
+
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
