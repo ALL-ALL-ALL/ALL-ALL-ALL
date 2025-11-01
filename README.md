@@ -68,6 +68,6 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" alt="GitHub Snake animation" />
+![github-snake](https://raw.githubusercontent.com/all-all-all/github-snake/output/github-contribution-grid-snake.svg)
 </p>
 
