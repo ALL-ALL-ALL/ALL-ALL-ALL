@@ -62,7 +62,6 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-all-all&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
@@ -74,5 +73,7 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
