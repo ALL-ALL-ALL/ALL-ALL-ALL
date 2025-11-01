@@ -64,7 +64,7 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 
 
-<h2 align="center">👾</h2>
+<h2 align="center">👾 Pac-Man Maze 👾</h2>
 
 <p align="center">
   <div align="center" style="
