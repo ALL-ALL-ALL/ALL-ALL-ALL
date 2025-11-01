@@ -64,15 +64,15 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
+<h2 align="center">👾 My GitHub Pac-Man</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contributions" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
