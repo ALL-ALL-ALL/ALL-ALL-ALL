@@ -64,7 +64,7 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 
 
-<h2 align="center">👾 Pac-Man Maze 👾</h2>
+<h2 align="center"><img src="https://camo.githubusercontent.com/33319aa56610290ed10776e2e9815ea773128cc0a9c77488f683f375425b9228/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663437622f3531322e676966" alt="👻" width="32" height="32" align="center" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" style="visibility: visible; max-width: 100%;"> Pac-Man Maze <img src="https://camo.githubusercontent.com/33319aa56610290ed10776e2e9815ea773128cc0a9c77488f683f375425b9228/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663437622f3531322e676966" alt="👻" width="32" height="32" align="center" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" style="visibility: visible; max-width: 100%;"></h2>
 
 <p align="center">
   <div align="center" style="
