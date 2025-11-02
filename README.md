@@ -68,31 +68,33 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 ---
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32">
-  GitHub Snake
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32">
+   Pac-Man Maze
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32">
 </h2>
 
 <p align="center">
   <div align="center" style="
     border: 2px solid #FFD700;
-    border-radius: 12px;
-    padding: 15px;
-    background-color: rgba(255, 215, 0, 0.08);
+    border-radius: 16px;
+    padding: 18px;
+    background: radial-gradient(circle at top, #001F3F 0%, #000000 85%);
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
     display: inline-block;
   ">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
-      <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
-    </picture>
+    <img
+      alt="Pac-Man contributions"
+      src="https://raw.githubusercontent.com/all-all-all/pacman-contribution-graph/output/pacman-contribution-graph.svg"
+      style="border-radius: 10px;"
+    />
+    <br />
+   
   </div>
 </p>
 
-
 ---
 
-<h2 align="center">💬 Quote of the Day</h2>
+<h2 align="center">Quote of the Day</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
