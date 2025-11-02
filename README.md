@@ -66,6 +66,10 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=all-all-all&color=FFD700&style=for-the-badge&label=Total%20Commits" />
+</p>
+
 
 <h2 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32">
