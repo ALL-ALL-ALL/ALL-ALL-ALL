@@ -62,7 +62,7 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=all-all-all&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Allan's">
+  <img src="https://github-readme-stats.vercel.app/api?username=all-all-all&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Allan's git hub stats">
 </p>
 
 ---
