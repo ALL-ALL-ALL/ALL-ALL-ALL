@@ -67,7 +67,11 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
 
 ---
 
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32"> Pac-Man Maze <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32"></h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32">
+  GitHub Snake
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32">
+</h2>
 
 <p align="center">
   <div align="center" style="
@@ -78,12 +82,13 @@ A **Web & iOS Developer (Apprentice)** based in Toulouse 🇫🇷
     display: inline-block;
   ">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
-      <img alt="Pac-Man contributions" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/pacman-contribution-graph.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
+      <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/all-all-all/github-snake/output/github-snake.svg" />
     </picture>
   </div>
 </p>
+
 
 ---
 
