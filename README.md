@@ -66,6 +66,8 @@ A **iOS** Developer (Apprentice) based in Toulouse 🇫🇷
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/NgroK-123697?logo=NgroK&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloudinary-46E3B7?logo=Cloudinary&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Brevo-241F21?logo=brevo&logoColor=white&style=for-the-badge">
+
 
 
 
