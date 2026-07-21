@@ -120,6 +120,57 @@ A **iOS** Developer (Apprentice) based in Toulouse 🇫🇷
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
+---
+
+<h2 align="center">🚀 My Projects / Mes Projets</h2>
+
+### 📱 TripLite Travel — iOS App / Application iOS
+
+🇬🇧 A travel journal app published on the App Store.  
+🇫🇷 Une application de carnet de voyage publiée sur l'App Store.
+
+**Stack :** Swift, SwiftUI, SwiftData, Node.js, MongoDB, Cloudinary, MapKit, Kingfisher, ConfettiSwiftUI
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/app/triplite-travel/id6782731648)
+
+---
+
+### 🛒 RayonGo — In Development / En développement 🔧
+
+🇬🇧 iOS app for supermarket navigation — helps you find products faster.  
+🇫🇷 Application iOS de navigation en supermarché — trouvez vos articles plus rapidement.
+
+**Stack :** Swift, SwiftUI, Node.js, MongoDB
+
+---
+<h2 align="center">🎓 Apple Foundation Program</h2>
+
+### 🏛️ ADYA — Museum Guide App
+
+🇬🇧 Collaborative iOS prototype for a personalized museum guide.  
+🇫🇷 Prototype iOS collaboratif pour un guide de musée personnalisé.
+
+**Stack :** Swift, SwiftUI
+
+---
+
+### ♿ AINAO — Accessibility Navigation App
+
+🇬🇧 Collaborative iOS prototype (3 people) developed during the Apple Foundation Program Extended in Lille.  
+App designed to help people with reduced mobility navigate cities by choosing routes based on their specific needs (wheelchair, etc.).  
+Features include: accessible toilets, water points, community pin system 🔴, weekly news feed, weather, user account management.
+
+🇫🇷 Prototype iOS collaboratif (3 personnes) développé lors de l'Apple Foundation Program Extended à Lille.  
+Application aidant les personnes à mobilité réduite à se déplacer en ville en choisissant leur itinéraire selon leur handicap.  
+Fonctionnalités : toilettes accessibles, points de fraîcheur, système de signalement communautaire 🔴, fil d'actualités, météo, gestion de compte utilisateur.
+
+**Stack :** Swift, SwiftUI, MapKit
+
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
