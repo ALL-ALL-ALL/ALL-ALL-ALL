@@ -1,9 +1,35 @@
 # Hey... I'am Allan 
 
 
-A **iOS** Developer (Apprentice) based in Toulouse 🇫🇷  
+A **iOS** Developer Junior (Learner) based in Toulouse 🇫🇷
 
-💡 I’m currently learning and building **simple, elegant, and user-friendly digital experiences** using Swift, SwiftUI, and modern web technologies.  
+💡 Je suis actuellement en train d'apprendre et de créer 
+des **expériences numériques simples, élégantes et 
+conviviales** en utilisant Swift, SwiftUI et les 
+technologies web modernes.
+
+Étant de l'Apple Foundation Program, je cherche 
+à rejoindre une formation iOS avancée tout en recherchant 
+activement mon premier poste de développeur iOS Junior.
+
+<br>
+
+
+<div align="center">
+------------
+</div>
+<br>
+
+
+                                     
+💡 I’m currently learning and building **simple, elegant, and user-friendly digital experiences** using Swift, SwiftUI, and modern web technologies.<br>
+
+Apple Foundation Program alumni, I'm looking to join 
+an advanced iOS training program while actively seeking 
+my first junior iOS developer position.
+
+
+
 <h3 align="left">
   <b>You can reach me through:</b>&nbsp;
   
