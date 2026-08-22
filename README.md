@@ -217,6 +217,8 @@ Fonctionnalités : API de blagues créée intégralement pour une distribution d
 🇬🇧 Collaborative iOS prototype for a personalized museum guide.  
 🇫🇷 Prototype iOS collaboratif pour un guide de musée personnalisé.
 
+[![Démo vidéo](https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=white&style=for-the-badge)](https://vimeo.com/1025283858)
+
 **Stack :** Swift, SwiftUI
 
 ---
@@ -230,6 +232,8 @@ Features include: accessible toilets, water points, community pin system 🔴, w
 🇫🇷 Prototype iOS collaboratif (3 personnes) développé lors de l'Apple Foundation Program Extended à Lille.  
 Application aidant les personnes à mobilité réduite à se déplacer en ville en choisissant leur itinéraire selon leur handicap.  
 Fonctionnalités : toilettes accessibles, points de fraîcheur, système de signalement communautaire 🔴, fil d'actualités, météo, gestion de compte utilisateur.
+
+[![Démo vidéo](https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=white&style=for-the-badge)](https://vimeo.com/1026719472?fl=ip&fe=ec)
 
 **Stack :** Swift, SwiftUI, MapKit
 
