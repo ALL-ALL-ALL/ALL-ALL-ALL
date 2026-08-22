@@ -185,6 +185,22 @@ Fonctionnalités : modélisation POO des entités (Héros, Ennemis) via classes 
 
 ---
 
+
+### 📻 RadioLink — Application iOS Audio & Music
+
+🇬🇧 Native iOS platform integrating France Info live radio streams and a personal Apple Music library.
+Multi-source architecture combining several APIs for a rich, real-time listening experience.
+Features include: Radio France API for live streaming, Apple Music v1 API for library management, Spotify API for real-time artist metadata, stable uninterrupted audio playback.<br>
+🇫🇷 Plateforme iOS native intégrant des flux de radio France en direct et une bibliothèque personnelle Apple Music.
+Architecture multi-source combinant plusieurs API pour une expérience d'écoute riche et en temps réel.
+Fonctionnalités : API Radio France pour le direct, API Apple Music v1 pour la gestion de bibliothèque, API Spotify pour les métadonnées d'artistes en temps réel, gestion audio stable sans interruption.
+
+**Stack :** Swift, Radio France API, Apple Music API (v1), Spotify API
+
+[![Démo vidéo](https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=white&style=for-the-badge)](https://vimeo.com/1056195520?fl=ip&fe=ec)
+
+---
+
 ### 🔴 Pokédex
 
 🇬🇧 Web application consuming the PokéAPI to browse and explore a large Pokémon database.
@@ -210,6 +226,8 @@ Fonctionnalités : API de blagues créée intégralement pour une distribution d
 **Stack :** JavaScript, HTML, CSS, Fetch API, API REST personnalisée
 
 [![Démo](https://img.shields.io/badge/Démo_en_ligne-121013?logo=githubpages&logoColor=white&style=for-the-badge)](https://all-all-all.github.io/carambar-front/)
+
+---
 <h2 align="center">🎓 Apple Foundation Program</h2>
 
 ### 🏛️ ADYA — Museum Guide App
