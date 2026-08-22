@@ -169,6 +169,47 @@ my first junior iOS developer position.
 **Stack :** Swift, SwiftUI, Node.js, MongoDB
 
 ---
+
+### 🎮 RPG 2D — Architecture & Algorithmique
+
+🇬🇧 Interactive role-playing game developed in JavaScript, featuring a smooth turn-based combat system.
+Focused on object-oriented design and real-time UI/logic synchronization.
+Features include: OOP entity modeling (Heroes, Enemies) via classes and dedicated methods, real-time DOM synchronization with game state (combat actions, health points), CSS animations and transitions triggered by JavaScript for an immersive experience.<br>
+🇫🇷 Jeu de rôle interactif développé en JavaScript, intégrant un système de combat au tour par tour fluide.
+Accent mis sur la programmation orientée objet et la synchronisation temps réel entre interface et logique.
+Fonctionnalités : modélisation POO des entités (Héros, Ennemis) via classes et méthodes dédiées, synchronisation DOM en temps réel avec l'état du jeu (actions de combat, points de vie), animations et transitions CSS déclenchées par JavaScript.
+
+**Stack :** JavaScript, HTML, CSS, POO
+
+[![Démo vidéo](https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=white&style=for-the-badge)](https://vimeo.com/1025296489?fl=ip&fe=ec)
+
+---
+
+### 🔴 Pokédex
+
+🇬🇧 Web application consuming the PokéAPI to browse and explore a large Pokémon database.
+Built with a focus on performance and fully responsive design.
+Features include: asynchronous HTTP requests to load and process a large volume of JSON data, optimized dynamic rendering for smooth navigation, advanced responsive design combining Flexbox and CSS Grid for all screen sizes.<br>
+🇫🇷 Application web consommant la PokéAPI pour parcourir une large base de données Pokémon.
+Développée avec un accent sur la performance et un design entièrement responsive.
+Fonctionnalités : requêtes HTTP asynchrones pour charger et traiter un volume important de données JSON, rendu dynamique optimisé pour une navigation sans ralentissement, responsive design avancé combinant Flexbox et CSS Grid.
+
+**Stack :** JavaScript, HTML, CSS, PokéAPI, Fetch API
+
+---
+
+### 😄 Carambar & Co | Application de Blague
+
+🇬🇧 Interactive web app faithfully recreating the brand's visual identity.
+Includes a custom-built API to serve content dynamically.
+Features include: fully custom-built joke API for random content distribution, Fetch API for asynchronous data retrieval, clean UX/UI design for a fun and immediate user experience.<br>
+🇫🇷 Application web interactive fidèle à l'univers graphique de la marque.
+Intègre une API sur-mesure pour la distribution dynamique de contenu.
+Fonctionnalités : API de blagues créée intégralement pour une distribution de contenu aléatoire, Fetch API pour la récupération asynchrone des données, design UX/UI épuré pour une expérience fun et immédiate.
+
+**Stack :** JavaScript, HTML, CSS, Fetch API, API REST personnalisée
+
+[![Démo](https://img.shields.io/badge/Démo_en_ligne-121013?logo=githubpages&logoColor=white&style=for-the-badge)](https://all-all-all.github.io/carambar-front/)
 <h2 align="center">🎓 Apple Foundation Program</h2>
 
 ### 🏛️ ADYA — Museum Guide App
