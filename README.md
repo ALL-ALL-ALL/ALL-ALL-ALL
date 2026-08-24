@@ -219,9 +219,11 @@ Fonctionnalités : requêtes HTTP asynchrones pour charger et traiter un volume 
 🇬🇧 Interactive web app faithfully recreating the brand's visual identity.
 Includes a custom-built API to serve content dynamically.
 Features include: fully custom-built joke API for random content distribution, Fetch API for asynchronous data retrieval, clean UX/UI design for a fun and immediate user experience.<br>
+As the server is hosted on a free service, it may take around 30 seconds to start up upon the first visit.
 🇫🇷 Application web interactive fidèle à l'univers graphique de la marque.
 Intègre une API sur-mesure pour la distribution dynamique de contenu.
 Fonctionnalités : API de blagues créée intégralement pour une distribution de contenu aléatoire, Fetch API pour la récupération asynchrone des données, design UX/UI épuré pour une expérience fun et immédiate.
+Le server étant sur un hébergement gratuit, il peut mettre environ 30 secondes à s'activer lors de la première visite.
 
 **Stack :** JavaScript, HTML, CSS, Fetch API, API REST personnalisée
 
