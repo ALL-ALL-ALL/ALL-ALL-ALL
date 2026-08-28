@@ -102,17 +102,6 @@ my first junior iOS developer position.
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=all-all-all&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
-    alt="Allan's GitHub stats"
-  />
-</p>
-
-
-
----
-
 <h2 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="32" height="32">
    Pac-Man Maze
