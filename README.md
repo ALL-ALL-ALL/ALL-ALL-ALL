@@ -142,13 +142,13 @@ my first junior iOS developer position.
 
 ### 📱 Trilink — iOS App / Application iOS
 
-**FR** — Application iOS permettant de sauvegarder et organiser ses liens facilement, avec extension de partage directement depuis Safari ou n'importe quelle app, catégories personnalisées, notes, widget pour l'écran d'accueil, et abonnement premium via StoreKit 2.
+🇬🇧 iOS app for saving and organizing links effortlessly, with a Share Extension from Safari or any app, custom categories, notes, a home screen widget, and premium subscription via StoreKit 2.
 
-**EN** — iOS app for saving and organizing links effortlessly, with a Share Extension from Safari or any app, custom categories, notes, a home screen widget, and premium subscription via StoreKit 2.
+🇫🇷 Application iOS permettant de sauvegarder et organiser ses liens facilement, avec extension de partage directement depuis Safari ou n'importe quelle app, catégories personnalisées, notes, widget pour l'écran d'accueil, et abonnement premium via StoreKit 2.
 
 **Stack** : Swift · SwiftUI · StoreKit 2 · WidgetKit
 
-**App Store** : [apple.co/4h14DWW](https://apple.co/4h14DWW)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.co/4h14DWW)
  
 ---
 
