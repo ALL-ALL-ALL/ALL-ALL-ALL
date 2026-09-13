@@ -10,7 +10,7 @@ technologies web modernes, je m'essaye aussi à d'autres technologies.
 
 Étant de l'Apple Foundation Program, je cherche 
 à rejoindre une formation iOS avancée tout en recherchant 
-activement mon premier poste de développeur iOS Junior.
+activement mon premier poste de développeur iOS .
 
 <br>
 
