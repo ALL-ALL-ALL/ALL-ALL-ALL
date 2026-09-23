@@ -6,7 +6,7 @@ A **iOS** Developer Junior (Learner) based in Toulouse 🇫🇷
 💡 Je suis actuellement en train d'apprendre et de créer 
 des **expériences numériques simples, élégantes et 
 conviviales** en utilisant Swift, SwiftUI et les 
-technologies web modernes, je m'essaye aussi à d'autres technologies.
+technologies web modernes.
 
 Étant de l'Apple Foundation Program, je cherche 
 à rejoindre une formation iOS avancée tout en recherchant 
