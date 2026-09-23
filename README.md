@@ -51,11 +51,7 @@ my first junior iOS developer position.
     height="30">
   </a>
   &nbsp;
-  <a href="https://github.com/all-all-all" target="_blank" rel="nofollow">
-    <img alt="GitHub" title="GitHub"
-    src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"
-    height="30">
-  </a>
+  
 </h3>
 
 
