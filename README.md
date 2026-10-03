@@ -135,12 +135,18 @@ my first junior iOS developer position.
 
 <h2 align="center">🚀 My Projects / Mes Projets</h2>
 
-### 📬 Capsule Temporelle — iOS App / Application iOS 🔧
+###  Capsule Temporelle — iOS App / Application iOS
 
-Coming soon 
+🇬🇧 iOS app for writing letters to yourself or to someone else, locked until a date you choose: in a month, a year or five years. Letters to yourself are saved with iCloud, and letters to a loved one go through a Node.js backend with a cron job that checks every 15 minutes which letters need to be sent by email.
+
+🇫🇷 Application iOS pour écrire une lettre à soi-même ou à quelqu'un d'autre, verrouillée jusqu'à une date choisie : dans un mois, un an ou cinq ans. Les lettres à soi-même sont sauvegardées sur iCloud, et celles pour un proche passent par un backend Node.js, avec une tâche cron qui vérifie chaque quart d'heure les lettres à envoyer par email.
+
+**Stack** : Swift · SwiftUI · iCloud · Node.js · Express · MongoDB
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.co/4hUsLMI)
 
 
-### 📱 Trilink — iOS App / Application iOS
+###  Trilink — iOS App / Application iOS
 
 🇬🇧 iOS app for saving and organizing links effortlessly, with a Share Extension from Safari or any app, custom categories, notes, a home screen widget, and premium subscription via StoreKit 2.
 
@@ -152,7 +158,7 @@ Coming soon
  
 ---
 
-### 📱 TripLite Travel — iOS App / Application iOS
+###  TripLite Travel — iOS App / Application iOS
 
 🇬🇧 A travel journal app published on the App Store.  
 🇫🇷 Une application de carnet de voyage publiée sur l'App Store.
@@ -163,7 +169,7 @@ Coming soon
 
 ---
 
-### 🛒 RayonGo — In Development / En développement 🔧
+###  RayonGo — In Development / En développement 🔧
 
 🇬🇧 iOS app for supermarket navigation — helps you find products faster.  
 🇫🇷 Application iOS de navigation en supermarché — trouvez vos articles plus rapidement.
@@ -172,7 +178,7 @@ Coming soon
 
 ---
 
-### 🎮 RPG 2D — Architecture & Algorithmique
+###  RPG 2D — Architecture & Algorithmique
 
 🇬🇧 Interactive role-playing game developed in JavaScript, featuring a smooth turn-based combat system.
 Focused on object-oriented design and real-time UI/logic synchronization.
@@ -188,7 +194,7 @@ Fonctionnalités : modélisation POO des entités (Héros, Ennemis) via classes 
 ---
 
 
-### 📻 RadioLink — Application iOS Audio & Music
+###  RadioLink — Application iOS Audio & Music
 
 🇬🇧 Native iOS platform integrating France Info live radio streams and a personal Apple Music library.
 Multi-source architecture combining several APIs for a rich, real-time listening experience.
@@ -203,7 +209,7 @@ Fonctionnalités : API Radio France pour le direct, API Apple Music v1 pour la g
 
 ---
 
-### 🔴 Pokédex
+###  Pokédex
 
 🇬🇧 Web application consuming the PokéAPI to browse and explore a large Pokémon database.
 Built with a focus on performance and fully responsive design.
@@ -216,7 +222,7 @@ Fonctionnalités : requêtes HTTP asynchrones pour charger et traiter un volume 
 
 ---
 
-### 😄 Carambar & Co | Application de Blague
+###  Carambar & Co | Application de Blague
 
 🇬🇧 Interactive web app faithfully recreating the brand's visual identity.
 Includes a custom-built API to serve content dynamically.
@@ -234,7 +240,7 @@ Le server étant sur un hébergement gratuit, il peut mettre environ 30 secondes
 ---
 <h2 align="center">🎓 Apple Foundation Program</h2>
 
-### 🏛️ ADYA — Museum Guide App
+###  ADYA — Museum Guide App
 
 🇬🇧 Collaborative iOS prototype for a personalized museum guide.  
 🇫🇷 Prototype iOS collaboratif pour un guide de musée personnalisé.
@@ -245,7 +251,7 @@ Le server étant sur un hébergement gratuit, il peut mettre environ 30 secondes
 
 ---
 
-### ♿ AINAO — Accessibility Navigation App
+###  AINAO — Accessibility Navigation App
 
 🇬🇧 Collaborative iOS prototype (3 people) developed during the Apple Foundation Program Extended in Lille.  
 App designed to help people with reduced mobility navigate cities by choosing routes based on their specific needs (wheelchair, etc.).  
