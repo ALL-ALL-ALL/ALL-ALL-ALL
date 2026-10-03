@@ -145,6 +145,7 @@ my first junior iOS developer position.
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.co/4hUsLMI)
 
+---
 
 ###  Trilink — iOS App / Application iOS
 
