@@ -135,6 +135,17 @@ my first junior iOS developer position.
 
 <h2 align="center">🚀 My Projects / Mes Projets</h2>
 
+###  Color ta rue  — iOS App / Application iOS
+
+🇬🇧 iOS app for.....     .
+
+🇫🇷 Application iOS pour  .
+
+**Stack** : Swift · SwiftUI · iCloud · Node.js · Express · MongoDB
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.co/4hUsLMI)
+
+---
 ###  Capsule Temporelle — iOS App / Application iOS
 
 🇬🇧 iOS app for writing letters to yourself or to someone else, locked until a date you choose: in a month, a year or five years. Letters to yourself are saved with iCloud, and letters to a loved one go through a Node.js backend with a cron job that checks every 15 minutes which letters need to be sent by email.
