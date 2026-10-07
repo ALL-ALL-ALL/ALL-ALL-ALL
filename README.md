@@ -143,7 +143,7 @@ my first junior iOS developer position.
 
 **Stack** : Swift · SwiftUI · iCloud · Node.js · Express · MongoDB
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.co/4hUsLMI)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge)](https://apple.com)
 
 ---
 ###  Capsule Temporelle — iOS App / Application iOS
