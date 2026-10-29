@@ -135,11 +135,9 @@ my first junior iOS developer position.
 
 <h2 align="center">🚀 My Projects / Mes Projets</h2>
 
-###  Color ta rue  — iOS App / Application iOS
+###  — In Development / En développement 🔧
 
-🇬🇧 iOS app for.....     .
-
-🇫🇷 Application iOS pour  .
+— 🔧
 
 **Stack** : Swift · SwiftUI · iCloud · Node.js · Express · MongoDB
 
